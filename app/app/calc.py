@@ -1,7 +1,8 @@
-"""
- calculate numbers.
-"""
+# """
+#  calculate numbers.
+# """
 
-def add(x, y):
-    """add numbers."""
-    return x + y
+
+# def add(x, y):
+#     """add numbers."""
+#     return x + y
